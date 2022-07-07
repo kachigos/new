@@ -1,0 +1,7 @@
+
+
+
+
+
+print('buy')
+print('hello')
